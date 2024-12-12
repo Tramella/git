@@ -4,6 +4,8 @@ Branch
 Conflict
 Local
 Remote
+Ignore
+
 
 # Commands
 <!-- Cài Đặt git vào dự án -->
