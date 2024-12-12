@@ -65,5 +65,5 @@ git branch -d <tên-branch>
 - :q
 
 <!-- GITHUB -->
-
+<!-- Tên Project phải cùng tên Vs Repos trên GH -->
 - git push <url> <tên-branch>
