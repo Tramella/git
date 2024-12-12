@@ -1,5 +1,6 @@
 # Terms
 Repository (Repo)
+Branch
 
 # Commands
 <!-- Cài Đặt git vào dự án -->
@@ -32,5 +33,15 @@ Repository (Repo)
 - git log --oneline <!--gọn hơn-->
 
 <!-- Back to any commit -->
+<!-- Dùng quay lại cá thời điểm nào đó -->
 <!-- B1: copy id commit from "git log" -->
-- git checkout <id-commit>
+- git checkout <id-commit> 
+- git checkout <branch-name>
+
+- git branch
+
+<!-- Create New Branch -->
+- git checkout -b <branch-name>
+
+
+
