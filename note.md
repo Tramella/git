@@ -17,3 +17,10 @@ Repository (Repo)
 
 <!-- Hủy các chuẩn bị của git add -->
 - git reset
+
+<!-- Chính thức lưu -->
+
+- git commit
+
+   Ex: git commit -m 'inital commit' 
+   <!-- Commit đầu tiên -->
