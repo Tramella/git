@@ -58,3 +58,6 @@ git branch -d <tên-branch>
 - git add .
 <!-- ko cần note => resolve conflicts -->
 - git commit
+
+<!-- Exit -->
+- :q
