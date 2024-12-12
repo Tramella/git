@@ -24,3 +24,13 @@ Repository (Repo)
 
    Ex: git commit -m 'inital commit' 
    <!-- Commit đầu tiên -->
+
+<!-- Xem các thời điểm commit -->
+
+- git log
+
+- git log --oneline <!--gọn hơn-->
+
+<!-- Back to any commit -->
+<!-- B1: copy id commit from "git log" -->
+- git checkout <id-commit>
