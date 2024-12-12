@@ -51,3 +51,10 @@ Conflict
 <!-- Xóa branch -->
 
 git branch -d <tên-branch>
+
+
+<!--  Khi xảy ra conflicts, có 2 lựa chọn -->
+<!-- Giữ 1 in 2 hoặc cả 2 -->
+- git add .
+<!-- ko cần note => resolve conflicts -->
+- git commit
