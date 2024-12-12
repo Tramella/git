@@ -2,6 +2,8 @@
 Repository (Repo)
 Branch
 Conflict
+Local
+Remote
 
 # Commands
 <!-- Cài Đặt git vào dự án -->
@@ -61,3 +63,7 @@ git branch -d <tên-branch>
 
 <!-- Exit -->
 - :q
+
+<!-- GITHUB -->
+
+- git push <url> <tên-branch>
