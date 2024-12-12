@@ -43,5 +43,10 @@ Branch
 <!-- Create New Branch -->
 - git checkout -b <branch-name>
 
+<!-- Merge -->
 
+- git merge <tên-branch>
 
+<!-- Xóa branch -->
+
+git branch -d <tên-branch>
